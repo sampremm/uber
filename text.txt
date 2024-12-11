@@ -1,0 +1,20 @@
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NTQ0MzE3MjAzNjEyYThjOGYwNjI1ZiIsImlhdCI6MTczMzU3NTQ0N30.aQeKfjsGgwnpIg_4SdrWzdd9H_fgadmmW2zHy-A4ZGM",
+    "captain": {
+        "fullname": {
+            "firstname": "samneel",
+            "lastname": "kumra"
+        },
+        "email": "samprem88111@gmail.com",
+        "password": "$2b$10$gZEBlcRn1N6GOsbBxmLEbOUcMSK251ZgtaNnLmxXeHt/xZXHZAkv6",
+        "status": "inactive",
+        "vechicle": {
+            "color": "blue",
+            "plate": "ts 03 o ok550",
+            "capacity": 3,
+            "vechicleType": "auto"
+        },
+        "_id": "67544317203612a8c8f0625f",
+        "__v": 0
+    }
+}
